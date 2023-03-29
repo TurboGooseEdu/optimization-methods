@@ -1,2 +1,2 @@
 # Optimization
-MO
+Assignments for optimization methods university course
